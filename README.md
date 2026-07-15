@@ -75,7 +75,7 @@ This project analyzes India's agricultural crop production data from **1997 to 2
 
 **Shaik Maheejabeen**
 
- shaikmaheejabeen488@gmail.com
+ shaikshahistha756@gmail.com
 
 GitHub: https://github.com/ShaikMahee756
 
